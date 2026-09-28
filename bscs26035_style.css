@@ -1,0 +1,132 @@
+#list:hover{
+    color: red;
+}
+nav{
+    background-color: cyan;
+    
+    
+}
+.button{
+    text-decoration: none;
+}
+#list{
+ display: flex;
+    justify-content: space-around;
+    color: red;
+    list-style-type: none;
+    word-spacing: 100%;
+    padding: 10px;
+    margin: auto;
+}
+#ABOUT{
+    color: aliceblue;
+    position: relative;
+    
+}
+#absolute{
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    font-size: 50px;
+}
+#text{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: solid;
+    position: absolute;
+    top: 25%;
+    left: 440px;
+    font-size: 50px;
+    justify-content: center;
+    
+}
+#h1{
+    font-size: larger;
+    color: black;
+}
+#Products{
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+     position: absolute;
+    top: 60%;
+    left: 400px;
+    font-size: 35px;
+   
+    text-decoration: none;
+    
+}
+#list1{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    list-style-type: none;
+    word-spacing: 50%;
+    padding: 10px;
+    margin: auto;
+
+}
+#div1{
+    font-size: larger;
+    color: black;
+    height: 600px;
+    width: 600px;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+
+     ;
+}
+#div2{
+    font-size: larger;
+    color: black;
+    height: 600px;
+    width: 600px;
+    background-color: burlywood;
+    border: 3px solid black;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+#div3{
+    font-size: larger;
+    color: black;
+    height: 600px;
+    width: 600px;
+    background-color: darkgrey;
+    border: 3px solid black;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    
+}
+#div4{
+    font-size: larger;
+    color: black;
+    height: 600px;
+    width: 600px;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;}
+.image{
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+#nav{
+    position: relative;
+    bottom: -200px;
+    
+}
+#form{
+   
+    
+}
